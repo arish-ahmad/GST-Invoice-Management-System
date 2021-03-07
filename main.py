@@ -23,7 +23,7 @@ def correct(inp):
     else:
         return False 
 class Main:
-    '''This Class Represent the Main Window of Application which include primary Buttons and side menu '''
+    '''This Class Represents the Main Window of Application which include primary Buttons and side menu '''
     def __init__(self,master):
         self.root=master
         self.root.title("Altaf Enterprises.2020________________________Tax Invoice")
